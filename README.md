@@ -9,8 +9,9 @@ release), and custom 3D printed and laser-cut parts.
 
 To open the box
 
-Demonstrated in the video on the fabforgefive website. Slide the power switch to the right. Listen for two buzzes. Now tap your secret
-knock on or near the circle on the bottom. If your knock is wrong, the book will buzz.  If correct, the book will spring open. 
+Demonstrated in the video on the fabforgefive website https://fabforgefive.com/secret-knock. Slide the power switch to the right. Listen
+for two buzzes. Now tap your secret knock on or near the circle on the bottom. If your knock is wrong, the book will buzz.  If correct, 
+the book will spring open. 
 
 To set a new secret knock
 
@@ -22,4 +23,4 @@ The Arduino code (sketch) contains code from Secret-Knock Gumball Machine writte
 Machine was the first Arduino project that my kids and I built, and was the gateway to many exciting family projects over the years. Thanks 
 Steve for the inspiration!
 
-Complete build tutorial is on the fabforgefive website.
+Complete build tutorial is on the fabforgefive website https://fabforgefive.com/secret-knock.
