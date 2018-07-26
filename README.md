@@ -22,4 +22,4 @@ The Arduino code (sketch) contains code from Secret-Knock Gumball Machine writte
 Machine was the first Arduino project that my kids and I built, and was the gateway to many exciting family projects over the years. Thanks 
 Steve for the inspiration!
 
-Build tutorial is on the fabforgefive website.
+Complete build tutorial is on the fabforgefive website.
