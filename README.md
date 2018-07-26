@@ -2,15 +2,18 @@
 Secret Knock Box project, with Arduino code etc.
 
 For Important Stuff
+
 The SECRET KNOCK BOX is a keepsake box that only opens when its owner taps their custom secret knock.  The knock can be reprogrammed at any
 time.  The box is powered by 3 AAA batteries, and uses an Arduino Pro Mini, a piezo pickup (knock detector), a sub micro servo (latch
 release), and custom 3D printed and laser-cut parts.  
 
-To open the box    
+To open the box
+
 Demonstrated in the video on the fabforgefive website. Slide the power switch to the right. Listen for two buzzes. Now tap your secret
 knock on or near the circle on the bottom. If your knock is wrong, the book will buzz.  If correct, the book will spring open. 
 
 To set a new secret knock
+
 Open the book with the old knock. With the power on, push and hold the inside button. Tap your new knock. The box LED will blink the knock
 back to you, then save your new knock to memory for the next time you use the box. The Arduino will save your new knock into its EEPROM
 memory, where it will stay unless you change it again.
