@@ -5,7 +5,7 @@ For Important Stuff
 
 The SECRET KNOCK BOX is a keepsake box that only opens when its owner taps their custom secret knock.  The knock can be reprogrammed at any
 time.  The box is powered by 3 AAA batteries, and uses an Arduino Pro Mini, a piezo pickup (knock detector), a sub micro servo (latch
-release), and custom 3D printed and laser-cut parts.  
+release), and custom 3D printed and laser-cut parts. The Arduino runs the Secret_Knock_Box_V2.ino sketch.
 
 To open the box
 
